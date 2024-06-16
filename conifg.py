@@ -34,7 +34,6 @@ MONGO_URL = getenv("MONGO_URL", "")
 RMBG_API = getenv("RMBG_API", "a6qxsmMJ3CsNo7HyxuKGsP1o")
 COMMAND = getenv("COMMAND", ".")
 PREFIX = COMMAND.split()
-OPENAI_KEY = getenv("OPENAI_KEY", None).split()
 
 
 
