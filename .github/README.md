@@ -1,2 +1,13 @@
 # AR-USERBOT
 GUA BUKAN DEVS YA MEK! GABISA APA APA.
+
+
+
+
+<b>Deploy?<b>
+<code>1. BELAJAR</code>
+<code>2. BELAJAR</code>
+<code>3. BELAJAR</code>
+<code>4. BELAJAR</code>
+<code>5. BELAJAR</code>
+<b>BELAJAR LAH ANJING BIAR BISA BANGSAT MANJA BANGET UDAH GEDE JUGA.</b>
