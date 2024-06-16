@@ -13,8 +13,8 @@ from dotenv import load_dotenv
 load_dotenv()
 
 # BEBAS MAU MAKE PUNYA GUA APA PUNYA LU.
-API_ID = int(getenv("API_ID", "25263977"))
-API_HASH = getenv("API_HASH", "be92aea5d670584b62fa2ce5ac97fe9b")
+API_ID = int(getenv("API_ID", ""))
+API_HASH = getenv("API_HASH", "")
 
 # INI HARUS PUNYA LU YA MEK. JANGAN BEGO BEGO BANGET.
 BOT_TOKEN = getenv("BOT_TOKEN", "")
