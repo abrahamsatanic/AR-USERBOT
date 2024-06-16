@@ -31,60 +31,10 @@ MAX_BOT = int(getenv("MAX_BOT", "100"))
 MONGO_URL = getenv("MONGO_URL", "")
 
 # GAUSAH DI OBRAK ABRIK KECUALI LU PUNYA API NYA YA JEMBUT
-RMBG_API = getenv("RMBG_API", "")
-
+RMBG_API = getenv("RMBG_API", "a6qxsmMJ3CsNo7HyxuKGsP1o")
 COMMAND = getenv("COMMAND", ".")
 PREFIX = COMMAND.split()
-
-OPENAI_KEY = getenv("OPENAI_KEY", "").split()
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+OPENAI_KEY = getenv("OPENAI_KEY", "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").split()
 
 
 
@@ -122,96 +72,6 @@ OPENAI_KEY = getenv("OPENAI_KEY", "").split()
 # MAMPUS ADA DISINI ANJING MAMPUS WHAHAHHAH
 # APA NGENTOT? MAU MARAH??
 DEV = getenv("DEV", "7112277413")
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
