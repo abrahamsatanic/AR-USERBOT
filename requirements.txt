@@ -13,7 +13,8 @@ opencv-python-headless
 requests
 unidecode
 attrify
-pySmartDL
+pySmartD
+pytgcalls==3.0.0.dev24L
 html2text
 removebg
 gpytranslate
